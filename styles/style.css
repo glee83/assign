@@ -32,3 +32,20 @@ div.justify-content{
     justify-content: space-between;
     align-items: center;
 }
+
+form{
+    width: 400px;
+    height: 400px;
+    margin: 10% auto;
+    box-shadow: 10px 10px 20px rgba(204, 204, 204, 0.39);
+    border-radius: 1rem;
+    border-top: 1px solid black;
+}
+form h3{
+    font-size: 15px;
+}
+
+form button {
+    margin: 0 auto;
+    display: block;
+}
